@@ -38,6 +38,6 @@ app.get('/api/:flower', (request, response) => {
     }
 });
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || PORT, () => {
     console.log(`Find Flowers on Port: ${PORT}`)
 });
