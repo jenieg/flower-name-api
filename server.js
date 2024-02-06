@@ -7,24 +7,24 @@ app.use(cors())
 
 const flowers = {
     'pansies': {
-        'botanical name': 'viola x wittrockiana',
+        'botanicalname': 'viola x wittrockiana',
         'symbolism': 'thoughts',
-        'special feature': 'attracts butterflies'
+        'specialfeature': 'attracts butterflies'
     },
     'cosmos': {
-        'botanical name': 'cosmos bipinnatus',
+        'botanicalname': 'cosmos bipinnatus',
         'symbolism': 'october birth flower',
-        'special feature': 'attracts butterflies and songbirds'
+        'specialfeature': 'attracts butterflies and songbirds'
     },
     'forget-me-nots': {
-        'botanical name': 'myosotis scorpioides',
+        'botanicalname': 'myosotis scorpioides',
         'symbolism': 'true love memories',
-        'special feature': 'attracts butterflies and songbirds'
+        'specialfeature': 'attracts butterflies and songbirds'
     },
     'unknown': {
-        'botanical name': 'not in directory',
+        'botanicalname': 'not in directory',
         'symbolism': 'n/a',
-        'special feature': 'n/a'
+        'specialfeature': 'n/a'
     }
 };
 
