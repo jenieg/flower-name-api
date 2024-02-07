@@ -6,25 +6,70 @@ const PORT = 8000;
 app.use(cors())
 
 const flowers = {
-    'pansies': {
-        'botanicalname': 'viola x wittrockiana',
-        'symbolism': 'thoughts',
-        'specialfeature': 'attracts butterflies'
+    'january': {
+        'flower': 'Carnation',
+        'botanicalname': 'Dianthus caryophyllus',
+        'symbolism': 'Innocence, pure love, and remembrance.'
     },
-    'cosmos': {
-        'botanicalname': 'cosmos bipinnatus',
-        'symbolism': 'october birth flower',
-        'specialfeature': 'attracts butterflies and songbirds'
+    'february': {
+        'flower': 'Violet',
+        'botanicalname': 'Streptocarpus',
+        'symbolism': 'Modesty, faithfulness, and everlasting love.'
     },
-    'forget-me-nots': {
-        'botanicalname': 'myosotis scorpioides',
-        'symbolism': 'true love memories',
-        'specialfeature': 'attracts butterflies and songbirds'
+    'march': {
+        'flower': 'Daffodil',
+        'botanicalname': 'Narcissus spp.',
+        'symbolism': 'Inspiration, forgiveness, and creativity.'
+    },
+    'april': {
+        'flower': 'Daisy',
+        'botanicalname': 'Leucanthemum x superbum',
+        'symbolism': 'Innocence, purity, and true love.'
+    },
+    'may': {
+        'flower': 'Lily of the Valley',
+        'botanicalname': 'Convallaria majalis',
+        'symbolism': 'Motherhood, sweetness, and purity.'
+    },
+    'june': {
+        'flower': 'Rose',
+        'botanicalname': 'Rosa spp.',
+        'symbolism': 'Love, beauty, and affection.'
+    },
+    'july': {
+        'flower': 'Water Lily',
+        'botanicalname': 'Nymphaeaceae',
+        'symbolism': 'Purity, innocence, and chastity.'
+    },
+    'august': {
+        'flower': 'Gladiolus',
+        'botanicalname': 'Gladiolus spp.',
+        'symbolism': 'Victory, healing, and honor.'
+    },
+    'september': {
+        'flower': 'Aster',
+        'botanicalname': 'Asteraceae',
+        'symbolism': 'Wisdom, patience and beauty.'
+    },
+    'october': {
+        'flower': 'Marigold',
+        'botanicalname': 'Tagetes spp.',
+        'symbolism': 'Properity, optimism, joy.'
+    },
+    'november': {
+        'flower': 'Chrysanthemum',
+        'botanicalname': 'Chrysanthemum',
+        'symbolism': 'Loyalty, friendship, and joy.'
+    },
+    'december': {
+        'flower': 'Holly',
+        'botanicalname': 'Ilex aquifolium',
+        'symbolism': 'Protection, Renewal, Light.'
     },
     'unknown': {
-        'botanicalname': 'not in directory',
-        'symbolism': 'n/a',
-        'specialfeature': 'n/a'
+        'flower': 'Flower Not Found',
+        'botanicalname': '',
+        'symbolism': ''
     }
 };
 
