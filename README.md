@@ -6,6 +6,8 @@
 
 This is a RESTful API designed for querying flower data based on specified months. Users can make GET requests to the endpoint, providing a 'month' parameter in the URL. The API responds with JSON-formatted data containing information about flowers associated with the specified month.
 
+[Check out the client-side companion to this RESTful API](https://github.com/jenieg/flower-name-client)
+
 ## Optimizations
 
 I plan to improve this project by incorporating a dedicated backend database in the future. I would also like to expand what json information is returned.
