@@ -2,7 +2,7 @@
 
 ### 
 
-## Tech used: ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript) ![NODE BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=3c7f5d&style=plastic&logo=node.js) ![EXPRESS BADGE](https://img.shields.io/static/v1?label=|&message=EXPRESS&color=3c7f5d&style=plastic&logo=express)
+## Tech used: ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=flat&logo=javascript) ![NODE BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=3c7f5d&style=flat&logo=node.js) ![EXPRESS BADGE](https://img.shields.io/static/v1?label=|&message=EXPRESS&color=3c7f5d&style=flat&logo=express)
 
 This is a RESTful API designed for querying flower data based on specified months. Users can make GET requests to the endpoint, providing a 'month' parameter in the URL. The API responds with JSON-formatted data containing information about flowers associated with the specified month.
 
