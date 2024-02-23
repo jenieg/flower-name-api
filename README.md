@@ -10,7 +10,7 @@ This is a RESTful API designed for querying flower data based on specified month
 
 ## Optimizations
 
-I plan to improve this project by incorporating a dedicated backend database in the future. I would also like to expand what json information is returned.
+I would like to expand what json information is returned.
 
 ## More Projects:
 
