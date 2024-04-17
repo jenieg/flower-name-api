@@ -64,7 +64,7 @@ const flowers = {
         'flower': 'Marigold',
         'botanicalname': 'Tagetes spp.',
         'symbolism': 'Properity, optimism, joy.',
-        'image': 'https://i.ibb.co/prW6PfR/african-violet-green-full-width.jpg'
+        'image': 'https://i.ibb.co/bHC6cfb/flower-2469091-1920-full-width.jpg'
     },
     'november': {
         'flower': 'Chrysanthemum',
