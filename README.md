@@ -2,13 +2,15 @@
 
 ### 
 
-## Tech used: ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript) ![NODE BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=3c7f5d&style=plastic&logo=node.js) ![EXPRESS BADGE](https://img.shields.io/static/v1?label=|&message=EXPRESS&color=3c7f5d&style=plastic&logo=express)
+## Tech used: <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=5a5a5a&style=flat&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=5a5a5a&style=flat&logo=node.js"/> <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=5a5a5a&style=flat&logo=express"/>
 
 This is a RESTful API designed for querying flower data based on specified months. Users can make GET requests to the endpoint, providing a 'month' parameter in the URL. The API responds with JSON-formatted data containing information about flowers associated with the specified month.
 
+[Check out the client-side companion to this RESTful API](https://github.com/jenieg/flower-name-client)
+
 ## Optimizations
 
-I plan to improve this project by incorporating a dedicated backend database in the future. I would also like to expand what json information is returned.
+I would like to expand what json information is returned.
 
 ## More Projects:
 
